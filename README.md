@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aleksandros Profka</h1>
-<h3 align="center">A passionate full-stack developer studying in the UK.</h3>
+<h1 align="center">Aleksandros Profka</h1>
+<h3 align="center">A passionate full-stack developer and university student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprofka&label=Profile%20views&color=0e75b6&style=flat" alt="aprofka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aprofka" alt="aprofka" /></a> </p>
 
-- 🔭 I’m currently working on [Memeound](linkplaceholder)
+- 🔭 I’m currently working on [Memeound](https://github.com/aprofka/memeound)
 
-- 🌱 I’m currently learning **Fluffer and Android/iOS dev**
+- 🌱 I’m currently learning **Flutter and Android/iOS dev**
 
 - 📫 How to reach me **a.profka99@gmail.com**
 
