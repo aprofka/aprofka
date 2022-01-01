@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aprofka" alt="aprofka" /></a> </p>
 
-- 🔭 I’m currently working on [Memeound](https://github.com/aprofka/memeound)
+- 🔭 I’m currently working on a booking system for local a business
 
-- 🌱 I’m currently learning **Flutter and Android/iOS dev**
+- 🌱 I’m currently learning **Java and C/C++**
 
 - 📫 How to reach me **a.profka99@gmail.com**
 
