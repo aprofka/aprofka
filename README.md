@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aleksandros Profka</h1>
 <h3 align="center">A passionate full-stack developer and university student.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprofka&label=Profile%20views&color=0e75b6&style=flat" alt="aprofka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aprofka" alt="aprofka" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aprofka" alt="aprofka" /></a> </p>
+
+
 
 - 🔭 I’m currently working on a next.js website for local a business with codename **LL**
-
 - 🌱 I’m currently learning **C++ and Next.js**
-
 - 📫 How to reach me **a.profka99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,9 +32,30 @@
 <p><a href="https://ko-fi.com/dralexus0284"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dralexus0284" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aprofka&show_icons=true&locale=en&layout=compact" alt="aprofka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aprofka&show_icons=true&locale=en" alt="aprofka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aprofka&show_icons=true&locale=en&layout=compact" alt="aprofka" /></p> <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aprofka&" alt="aprofka" /></p>
+
+
+
+
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aprofka&show_icons=true&locale=en" alt="aprofka" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aprofka&" alt="aprofka" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
