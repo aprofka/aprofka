@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on a next.js website for local a business with codename **LL**
-- 🌱 I’m currently learning **C++ and Next.js**
+- 🌱 I’m currently learning **Swift**
 - 📫 How to reach me **a.profka99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
