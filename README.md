@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on a next.js website for local a business with codename **LL**
+- 🔭 I’m currently working on an iOS application with Swift **LL**
 - 🌱 I’m currently learning **Swift**
 - 📫 How to reach me **a.profka99@gmail.com**
 
