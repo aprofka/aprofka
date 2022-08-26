@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on an iOS application with Swift **LL**
+- 🔭 I’m currently working on a staff React Native applicaton for a business
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me **a.profka99@gmail.com**
 
