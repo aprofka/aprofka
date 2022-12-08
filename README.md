@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a staff React Native applicaton for a business
 - 🌱 I’m currently learning **React Native**
-- 📫 How to reach me **a.profka99@gmail.com**
+- 📫 How to reach me : **a.profka99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
