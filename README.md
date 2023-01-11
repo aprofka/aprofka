@@ -9,8 +9,8 @@
 
 
 
-- 🔭 I’m currently working on a staff React Native applicaton for a business
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on a **Running Tracker**
+- 🌱 I’m currently learning **Kotlin** and **Android Development**
 - 📫 How to reach me : **a.profka99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
