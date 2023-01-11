@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on a **Running Tracker**
+- 🔭 I’m currently working on a **Running Tracker - Native Android Application**
 - 🌱 I’m currently learning **Kotlin** and **Android Development**
 - 📫 How to reach me : **a.profka99@gmail.com**
 
